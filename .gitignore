@@ -1,0 +1,15 @@
+# Ignore downloaded packages
+ml_packages/
+
+# Temp files
+*.tmp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# rclone config (contains tokens)
+rclone.conf
