@@ -141,3 +141,35 @@ Or manually sync with:
 [19:19:14]     ✓ torchvision (CUDA cu124, py3.12)
 [19:19:15]   [4/79] torch==2.3.0
 [19:25:20]     ✓ Uploaded: torch-2.3.0-cp39-none-macosx_11_0_arm64.whl
+[19:27:11]     ✓ Uploaded: torch-2.3.0-cp39-cp39-win_amd64.whl
+[19:32:36]     ✓ Uploaded: torch-2.3.0-cp310-none-macosx_11_0_arm64.whl
+[19:33:23]     ✓ Uploaded: torch-2.3.0-cp310-cp310-win_amd64.whl
+[19:38:10]     ✓ Uploaded: torch-2.3.0-cp311-cp311-manylinux1_x86_64.whl
+[19:38:57]     ✓ Uploaded: torch-2.3.0-cp311-none-macosx_11_0_arm64.whl
+[19:40:16]     ✓ Uploaded: torch-2.3.0-cp311-cp311-win_amd64.whl
+[19:45:52]     ✓ Uploaded: torch-2.3.0-cp312-none-macosx_11_0_arm64.whl
+[19:47:15]     ✓ Uploaded: torch-2.3.0-cp312-cp312-win_amd64.whl
+[19:47:15]     → CUDA cu118...
+[19:47:26]     ✓ torchvision (CUDA cu118, py3.9)
+[19:47:34]     ✓ torchaudio (CUDA cu118, py3.9)
+[19:47:41]     ✓ torchvision (CUDA cu118, py3.10)
+[19:47:48]     ✓ torchaudio (CUDA cu118, py3.10)
+[19:47:55]     ✓ torchvision (CUDA cu118, py3.11)
+[19:48:02]     ✓ torchvision (CUDA cu118, py3.12)
+[19:48:03]     → CUDA cu121...
+[19:48:12]     ✓ torchvision (CUDA cu121, py3.9)
+[19:48:20]     ✓ torchaudio (CUDA cu121, py3.9)
+[19:48:28]     ✓ torchvision (CUDA cu121, py3.10)
+[19:48:33]     ✓ torchaudio (CUDA cu121, py3.10)
+[19:48:40]     ✓ torchvision (CUDA cu121, py3.11)
+[19:48:46]     ✓ torchvision (CUDA cu121, py3.12)
+[19:48:47]     → CUDA cu124...
+[19:48:57]     ✓ torchvision (CUDA cu124, py3.9)
+[19:49:04]     ✓ torchaudio (CUDA cu124, py3.9)
+[19:49:11]     ✓ torchvision (CUDA cu124, py3.10)
+[19:49:17]     ✓ torchaudio (CUDA cu124, py3.10)
+[19:49:25]     ✓ torchvision (CUDA cu124, py3.11)
+[19:49:34]     ✓ torchvision (CUDA cu124, py3.12)
+[19:49:35]   [5/79] torch==2.4.0
+[20:10:04]     ✓ Uploaded: torch-2.4.0-cp39-none-macosx_11_0_arm64.whl
+[20:11:23]     ✓ Uploaded: torch-2.4.0-cp39-cp39-win_amd64.whl
