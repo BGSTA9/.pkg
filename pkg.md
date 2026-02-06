@@ -980,3 +980,220 @@ KeyboardInterrupt
 [18:08:49]     ✓ Uploaded: wandb-0.17.0-py3-none-win_amd64.whl
 [18:08:49]   [60/79] wandb==0.18.0
 [18:09:01]     ✓ Uploaded: wandb-0.18.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:09:10]     ✓ Uploaded: wandb-0.18.0-py3-none-any.whl
+[18:09:19]     ✓ Uploaded: wandb-0.18.0-py3-none-macosx_11_0_arm64.whl
+[18:09:28]     ✓ Uploaded: wandb-0.18.0-py3-none-win_amd64.whl
+[18:09:33]     ✓ Uploaded: wandb-0.18.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:09:38]     ✓ Uploaded: wandb-0.18.0-py3-none-any.whl
+[18:09:42]     ✓ Uploaded: wandb-0.18.0-py3-none-macosx_11_0_arm64.whl
+[18:09:47]     ✓ Uploaded: wandb-0.18.0-py3-none-win_amd64.whl
+[18:09:52]     ✓ Uploaded: wandb-0.18.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:09:56]     ✓ Uploaded: wandb-0.18.0-py3-none-any.whl
+[18:10:01]     ✓ Uploaded: wandb-0.18.0-py3-none-macosx_11_0_arm64.whl
+[18:10:05]     ✓ Uploaded: wandb-0.18.0-py3-none-win_amd64.whl
+[18:10:10]     ✓ Uploaded: wandb-0.18.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:10:15]     ✓ Uploaded: wandb-0.18.0-py3-none-any.whl
+[18:10:19]     ✓ Uploaded: wandb-0.18.0-py3-none-macosx_11_0_arm64.whl
+[18:10:24]     ✓ Uploaded: wandb-0.18.0-py3-none-win_amd64.whl
+[18:10:24] 📦 optuna (2 versions)
+[18:10:24]   [61/79] optuna==3.6.0
+[18:10:32]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:35]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:39]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:44]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:48]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:53]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:10:57]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:01]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:06]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:11]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:16]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:21]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:25]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:30]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:34]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:38]     ✓ Uploaded: optuna-3.6.0-py3-none-any.whl
+[18:11:38]   [62/79] optuna==4.0.0
+[18:11:46]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:11:50]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:11:53]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:11:57]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:02]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:06]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:11]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:15]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:19]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:23]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:27]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:33]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:37]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:42]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:46]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:52]     ✓ Uploaded: optuna-4.0.0-py3-none-any.whl
+[18:12:52] 📦 jupyterlab (2 versions)
+[18:12:52]   [63/79] jupyterlab==4.1.0
+[18:13:06]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:11]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:15]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:18]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:21]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:25]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:28]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:32]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:35]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:39]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:42]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:46]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:49]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:53]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:13:56]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:14:00]     ✓ Uploaded: jupyterlab-4.1.0-py3-none-any.whl
+[18:14:00]   [64/79] jupyterlab==4.2.0
+[18:14:13]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:17]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:24]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:29]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:34]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:39]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:44]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:49]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:54]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:14:58]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:03]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:07]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:12]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:17]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:22]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:26]     ✓ Uploaded: jupyterlab-4.2.0-py3-none-any.whl
+[18:15:26] 📦 notebook (2 versions)
+[18:15:26]   [65/79] notebook==7.1.0
+[18:15:38]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:15:42]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:15:46]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:15:51]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:15:56]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:01]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:06]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:10]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:15]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:20]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:24]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:29]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:34]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:38]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:43]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:48]     ✓ Uploaded: notebook-7.1.0-py3-none-any.whl
+[18:16:48]   [66/79] notebook==7.2.0
+[18:16:59]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:03]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:07]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:10]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:15]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:20]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:25]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:30]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:34]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:38]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:43]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:48]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:53]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:17:57]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:18:02]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:18:07]     ✓ Uploaded: notebook-7.2.0-py3-none-any.whl
+[18:18:07] 📦 ipykernel (2 versions)
+[18:18:07]   [67/79] ipykernel==6.28.0
+[18:18:15]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:18]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:22]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:26]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:29]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:33]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:37]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:41]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:46]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:49]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:53]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:18:57]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:19:01]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:19:05]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:19:09]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:19:12]     ✓ Uploaded: ipykernel-6.28.0-py3-none-any.whl
+[18:19:12]   [68/79] ipykernel==6.29.0
+[18:19:19]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:23]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:27]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:31]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:35]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:42]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:46]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:49]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:53]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:19:57]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:02]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:07]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:10]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:15]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:18]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:22]     ✓ Uploaded: ipykernel-6.29.0-py3-none-any.whl
+[18:20:22] 📦 tqdm (1 versions)
+[18:20:22]   [69/79] tqdm==4.66.0
+[18:20:30]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:34]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:38]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:42]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:46]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:51]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:54]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:20:58]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:02]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:05]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:09]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:14]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:17]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:21]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:25]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:29]     ✓ Uploaded: tqdm-4.66.0-py3-none-any.whl
+[18:21:29] 📦 pyyaml (1 versions)
+[18:21:29]   [70/79] pyyaml==6.0.1
+[18:21:37]     ✓ Uploaded: PyYAML-6.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:21:42]     ✓ Uploaded: PyYAML-6.0.1-cp39-cp39-macosx_10_9_x86_64.whl
+[18:21:47]     ✓ Uploaded: PyYAML-6.0.1-cp39-cp39-macosx_11_0_arm64.whl
+[18:21:52]     ✓ Uploaded: PyYAML-6.0.1-cp39-cp39-win_amd64.whl
+[18:21:57]     ✓ Uploaded: PyYAML-6.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:22:03]     ✓ Uploaded: PyYAML-6.0.1-cp310-cp310-macosx_10_9_x86_64.whl
+[18:22:09]     ✓ Uploaded: PyYAML-6.0.1-cp310-cp310-macosx_11_0_arm64.whl
+[18:22:14]     ✓ Uploaded: PyYAML-6.0.1-cp310-cp310-win_amd64.whl
+[18:22:19]     ✓ Uploaded: PyYAML-6.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:22:24]     ✓ Uploaded: PyYAML-6.0.1-cp311-cp311-macosx_10_9_x86_64.whl
+[18:22:30]     ✓ Uploaded: PyYAML-6.0.1-cp311-cp311-macosx_11_0_arm64.whl
+[18:22:35]     ✓ Uploaded: PyYAML-6.0.1-cp311-cp311-win_amd64.whl
+[18:22:41]     ✓ Uploaded: PyYAML-6.0.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:22:46]     ✓ Uploaded: PyYAML-6.0.1-cp312-cp312-macosx_10_9_x86_64.whl
+[18:22:52]     ✓ Uploaded: PyYAML-6.0.1-cp312-cp312-macosx_11_0_arm64.whl
+[18:22:56]     ✓ Uploaded: PyYAML-6.0.1-cp312-cp312-win_amd64.whl
+[18:22:56] 📦 rich (1 versions)
+[18:22:56]   [71/79] rich==13.7.0
+[18:23:04]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:07]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:11]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:15]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:20]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:25]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:29]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:33]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:38]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:43]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:47]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:51]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:23:56]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:24:00]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:24:04]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:24:08]     ✓ Uploaded: rich-13.7.0-py3-none-any.whl
+[18:24:08] 📦 h5py (2 versions)
+[18:24:08]   [72/79] h5py==3.10.0
+[18:24:18]     ✓ Uploaded: h5py-3.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:24:26]     ✓ Uploaded: h5py-3.10.0-cp39-cp39-macosx_10_9_x86_64.whl
+[18:24:32]     ✓ Uploaded: h5py-3.10.0-cp39-cp39-macosx_11_0_arm64.whl
+[18:24:38]     ✓ Uploaded: h5py-3.10.0-cp39-cp39-win_amd64.whl
+[18:24:46]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:24:53]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-macosx_10_9_x86_64.whl
