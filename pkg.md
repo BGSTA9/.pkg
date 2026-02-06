@@ -261,3 +261,92 @@ base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start
 [15:27:45]     ✓ Uploaded: torchvision-0.17.0-cp312-cp312-win_amd64.whl
 [15:27:45]   [9/79] torchvision==0.18.0
 [15:27:55]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-manylinux1_x86_64.whl
+15:28:01]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:28:08]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-win_amd64.whl
+[15:28:16]     ✓ Uploaded: torchvision-0.18.0-cp310-cp310-manylinux1_x86_64.whl
+[15:28:21]     ✓ Uploaded: torchvision-0.18.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:28:28]     ✓ Uploaded: torchvision-0.18.0-cp310-cp310-win_amd64.whl
+[15:28:36]     ✓ Uploaded: torchvision-0.18.0-cp311-cp311-manylinux1_x86_64.whl
+[15:28:41]     ✓ Uploaded: torchvision-0.18.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:28:49]     ✓ Uploaded: torchvision-0.18.0-cp311-cp311-win_amd64.whl
+[15:28:59]     ✓ Uploaded: torchvision-0.18.0-cp312-cp312-manylinux1_x86_64.whl
+[15:29:06]     ✓ Uploaded: torchvision-0.18.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:29:12]     ✓ Uploaded: torchvision-0.18.0-cp312-cp312-win_amd64.whl
+[15:29:12]   [10/79] torchvision==0.19.0
+[15:29:22]     ✓ Uploaded: torchvision-0.19.0-cp39-cp39-manylinux1_x86_64.whl
+[15:29:29]     ✓ Uploaded: torchvision-0.19.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:29:35]     ✓ Uploaded: torchvision-0.19.0-1-cp39-cp39-win_amd64.whl
+[15:29:42]     ✓ Uploaded: torchvision-0.19.0-cp310-cp310-manylinux1_x86_64.whl
+[15:29:47]     ✓ Uploaded: torchvision-0.19.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:29:53]     ✓ Uploaded: torchvision-0.19.0-1-cp310-cp310-win_amd64.whl
+[15:30:02]     ✓ Uploaded: torchvision-0.19.0-cp311-cp311-manylinux1_x86_64.whl
+[15:30:10]     ✓ Uploaded: torchvision-0.19.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:30:16]     ✓ Uploaded: torchvision-0.19.0-1-cp311-cp311-win_amd64.whl
+[15:30:29]     ✓ Uploaded: torchvision-0.19.0-cp312-cp312-manylinux1_x86_64.whl
+[15:30:36]     ✓ Uploaded: torchvision-0.19.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:30:42]     ✓ Uploaded: torchvision-0.19.0-1-cp312-cp312-win_amd64.whl
+[15:30:42] 📦 torchaudio (5 versions)
+[15:30:42]   [11/79] torchaudio==2.0.0
+[15:30:53]     ✓ Uploaded: torchaudio-2.0.0-cp39-cp39-manylinux1_x86_64.whl
+[15:31:00]     ✓ Uploaded: torchaudio-2.0.0-cp39-cp39-macosx_10_9_x86_64.whl
+[15:31:07]     ✓ Uploaded: torchaudio-2.0.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:31:14]     ✓ Uploaded: torchaudio-2.0.0-cp39-cp39-win_amd64.whl
+[15:31:23]     ✓ Uploaded: torchaudio-2.0.0-cp310-cp310-manylinux1_x86_64.whl
+[15:31:32]     ✓ Uploaded: torchaudio-2.0.0-cp310-cp310-macosx_10_9_x86_64.whl
+[15:31:38]     ✓ Uploaded: torchaudio-2.0.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:31:43]     ✓ Uploaded: torchaudio-2.0.0-cp310-cp310-win_amd64.whl
+[15:31:49]     ✓ Uploaded: torchaudio-2.0.0-cp311-cp311-manylinux1_x86_64.whl
+[15:31:57]     ✓ Uploaded: torchaudio-2.0.0-cp311-cp311-macosx_10_9_x86_64.whl
+[15:32:06]     ✓ Uploaded: torchaudio-2.0.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:32:13]     ✓ Uploaded: torchaudio-2.0.0-cp311-cp311-win_amd64.whl
+[15:32:15]   [12/79] torchaudio==2.1.0
+[15:32:25]     ✓ Uploaded: torchaudio-2.1.0-cp39-cp39-manylinux1_x86_64.whl
+[15:32:32]     ✓ Uploaded: torchaudio-2.1.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:32:37]     ✓ Uploaded: torchaudio-2.1.0-cp39-cp39-win_amd64.whl
+[15:32:45]     ✓ Uploaded: torchaudio-2.1.0-cp310-cp310-manylinux1_x86_64.whl
+[15:32:51]     ✓ Uploaded: torchaudio-2.1.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:32:57]     ✓ Uploaded: torchaudio-2.1.0-cp310-cp310-win_amd64.whl
+[15:33:04]     ✓ Uploaded: torchaudio-2.1.0-cp311-cp311-manylinux1_x86_64.whl
+[15:33:10]     ✓ Uploaded: torchaudio-2.1.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:33:15]     ✓ Uploaded: torchaudio-2.1.0-cp311-cp311-win_amd64.whl
+[15:33:18]   [13/79] torchaudio==2.2.0
+[15:33:27]     ✓ Uploaded: torchaudio-2.2.0-cp39-cp39-manylinux1_x86_64.whl
+[15:33:34]     ✓ Uploaded: torchaudio-2.2.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:33:41]     ✓ Uploaded: torchaudio-2.2.0-cp39-cp39-win_amd64.whl
+[15:33:47]     ✓ Uploaded: torchaudio-2.2.0-cp310-cp310-manylinux1_x86_64.whl
+[15:33:55]     ✓ Uploaded: torchaudio-2.2.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:34:03]     ✓ Uploaded: torchaudio-2.2.0-cp310-cp310-win_amd64.whl
+[15:34:12]     ✓ Uploaded: torchaudio-2.2.0-cp311-cp311-manylinux1_x86_64.whl
+[15:34:19]     ✓ Uploaded: torchaudio-2.2.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:34:25]     ✓ Uploaded: torchaudio-2.2.0-cp311-cp311-win_amd64.whl
+[15:34:35]     ✓ Uploaded: torchaudio-2.2.0-cp312-cp312-manylinux1_x86_64.whl
+[15:34:43]     ✓ Uploaded: torchaudio-2.2.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:34:50]     ✓ Uploaded: torchaudio-2.2.0-cp312-cp312-win_amd64.whl
+[15:34:50]   [14/79] torchaudio==2.3.0
+[15:34:59]     ✓ Uploaded: torchaudio-2.3.0-cp39-cp39-manylinux1_x86_64.whl
+[15:35:06]     ✓ Uploaded: torchaudio-2.3.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:35:13]     ✓ Uploaded: torchaudio-2.3.0-cp39-cp39-win_amd64.whl
+[15:35:21]     ✓ Uploaded: torchaudio-2.3.0-cp310-cp310-manylinux1_x86_64.whl
+[15:35:28]     ✓ Uploaded: torchaudio-2.3.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:35:36]     ✓ Uploaded: torchaudio-2.3.0-cp310-cp310-win_amd64.whl
+[15:35:42]     ✓ Uploaded: torchaudio-2.3.0-cp311-cp311-manylinux1_x86_64.whl
+[15:35:49]     ✓ Uploaded: torchaudio-2.3.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:35:55]     ✓ Uploaded: torchaudio-2.3.0-cp311-cp311-win_amd64.whl
+[15:36:03]     ✓ Uploaded: torchaudio-2.3.0-cp312-cp312-manylinux1_x86_64.whl
+[15:36:10]     ✓ Uploaded: torchaudio-2.3.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:36:17]     ✓ Uploaded: torchaudio-2.3.0-cp312-cp312-win_amd64.whl
+[15:36:17]   [15/79] torchaudio==2.4.0
+[15:36:27]     ✓ Uploaded: torchaudio-2.4.0-cp39-cp39-manylinux1_x86_64.whl
+[15:36:34]     ✓ Uploaded: torchaudio-2.4.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:36:42]     ✓ Uploaded: torchaudio-2.4.0-cp39-cp39-win_amd64.whl
+[15:36:48]     ✓ Uploaded: torchaudio-2.4.0-cp310-cp310-manylinux1_x86_64.whl
+[15:36:55]     ✓ Uploaded: torchaudio-2.4.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:37:01]     ✓ Uploaded: torchaudio-2.4.0-cp310-cp310-win_amd64.whl
+[15:37:09]     ✓ Uploaded: torchaudio-2.4.0-cp311-cp311-manylinux1_x86_64.whl
+[15:37:17]     ✓ Uploaded: torchaudio-2.4.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:37:23]     ✓ Uploaded: torchaudio-2.4.0-cp311-cp311-win_amd64.whl
+[15:37:29]     ✓ Uploaded: torchaudio-2.4.0-cp312-cp312-manylinux1_x86_64.whl
+[15:37:35]     ✓ Uploaded: torchaudio-2.4.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:37:43]     ✓ Uploaded: torchaudio-2.4.0-cp312-cp312-win_amd64.whl
+[15:37:43] 📦 tensorflow (3 versions)
+[15:37:43]   [16/79] tensorflow==2.13.0
