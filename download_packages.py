@@ -6,6 +6,7 @@ Minimal local storage required (~2GB temp space max).
 
 Usage:
     python download_packages.py
+    python download_packages.py --start-from 5   # Resume from package 5
 """
 
 import os
@@ -14,6 +15,7 @@ import json
 import subprocess
 import shutil
 import tempfile
+import argparse
 from pathlib import Path
 from datetime import datetime
 
@@ -218,6 +220,12 @@ def download_pytorch_cuda(version: str, cuda_version: str, temp_dir: Path):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="ML Package Downloader - Direct to Google Drive")
+    parser.add_argument("--start-from", type=int, default=1,
+                        help="Resume from package number (1-indexed, matches [X/79] output)")
+    args = parser.parse_args()
+    start_from = args.start_from
+    
     log("=" * 60)
     log("ML Package Downloader - Direct to Google Drive")
     log("=" * 60)
@@ -231,6 +239,8 @@ def main():
         sys.exit(1)
     
     log(f"✓ Using rclone remote: {GDRIVE_REMOTE}:{GDRIVE_PATH}")
+    if start_from > 1:
+        log(f"⏩ Resuming from package #{start_from}")
     log("")
     
     # Create temp directory for downloads
@@ -251,6 +261,12 @@ def main():
             
             for version in versions:
                 current += 1
+                
+                # Skip if before start_from
+                if current < start_from:
+                    log(f"  [{current}/{total_packages}] {pkg_name}=={version} (skipped)")
+                    continue
+                
                 log(f"  [{current}/{total_packages}] {pkg_name}=={version}")
                 
                 # Download for each Python version and platform
