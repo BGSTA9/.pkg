@@ -206,7 +206,7 @@ Traceback (most recent call last):
     fd_event_list = self._selector.poll(timeout)
 KeyboardInterrupt
 
-base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start-from 6
+(base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start-from 6
 [15:23:45] ============================================================
 [15:23:45] ML Package Downloader - Direct to Google Drive
 [15:23:45] ============================================================
@@ -261,7 +261,7 @@ base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start
 [15:27:45]     ✓ Uploaded: torchvision-0.17.0-cp312-cp312-win_amd64.whl
 [15:27:45]   [9/79] torchvision==0.18.0
 [15:27:55]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-manylinux1_x86_64.whl
-15:28:01]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:28:01]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-macosx_11_0_arm64.whl
 [15:28:08]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-win_amd64.whl
 [15:28:16]     ✓ Uploaded: torchvision-0.18.0-cp310-cp310-manylinux1_x86_64.whl
 [15:28:21]     ✓ Uploaded: torchvision-0.18.0-cp310-cp310-macosx_11_0_arm64.whl
@@ -350,3 +350,200 @@ base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start
 [15:37:43]     ✓ Uploaded: torchaudio-2.4.0-cp312-cp312-win_amd64.whl
 [15:37:43] 📦 tensorflow (3 versions)
 [15:37:43]   [16/79] tensorflow==2.13.0
+[15:41:27]     ✓ Uploaded: tensorflow-2.13.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:41:34]     ✓ Uploaded: tensorflow-2.13.0-cp39-cp39-win_amd64.whl
+[15:46:13]     ✓ Uploaded: tensorflow-2.13.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:46:19]     ✓ Uploaded: tensorflow-2.13.0-cp310-cp310-win_amd64.whl
+[15:47:50]     ✓ Uploaded: tensorflow-2.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:47:57]     ✓ Uploaded: tensorflow-2.13.0-cp311-cp311-win_amd64.whl
+[15:47:59]   [17/79] tensorflow==2.14.0
+[15:49:54]     ✓ Uploaded: tensorflow-2.14.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:50:00]     ✓ Uploaded: tensorflow-2.14.0-cp39-cp39-win_amd64.whl
+[15:52:44]     ✓ Uploaded: tensorflow-2.14.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:52:53]     ✓ Uploaded: tensorflow-2.14.0-cp310-cp310-win_amd64.whl
+[15:54:50]     ✓ Uploaded: tensorflow-2.14.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:54:56]     ✓ Uploaded: tensorflow-2.14.0-cp311-cp311-win_amd64.whl
+[15:54:59]   [18/79] tensorflow==2.15.0
+[15:57:29]     ✓ Uploaded: tensorflow-2.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:57:35]     ✓ Uploaded: tensorflow-2.15.0-cp39-cp39-win_amd64.whl
+[15:59:34]     ✓ Uploaded: tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[15:59:40]     ✓ Uploaded: tensorflow-2.15.0-cp310-cp310-win_amd64.whl
+[16:01:49]     ✓ Uploaded: tensorflow-2.15.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:01:59]     ✓ Uploaded: tensorflow-2.15.0-cp311-cp311-win_amd64.whl
+[16:02:01] 📦 numpy (4 versions)
+[16:02:01]   [19/79] numpy==1.24.0
+[16:02:18]     ✓ Uploaded: numpy-1.24.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:02:32]     ✓ Uploaded: numpy-1.24.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:02:48]     ✓ Uploaded: numpy-1.24.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:03:00]     ✓ Uploaded: numpy-1.24.0-cp39-cp39-win_amd64.whl
+[16:03:12]     ✓ Uploaded: numpy-1.24.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:05:20]     ✓ Uploaded: numpy-1.24.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:05:34]     ✓ Uploaded: numpy-1.24.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:05:44]     ✓ Uploaded: numpy-1.24.0-cp310-cp310-win_amd64.whl
+[16:05:57]     ✓ Uploaded: numpy-1.24.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:06:14]     ✓ Uploaded: numpy-1.24.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:06:26]     ✓ Uploaded: numpy-1.24.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:06:38]     ✓ Uploaded: numpy-1.24.0-cp311-cp311-win_amd64.whl
+[16:06:53]   [20/79] numpy==1.25.0
+[16:07:16]     ✓ Uploaded: numpy-1.25.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:07:30]     ✓ Uploaded: numpy-1.25.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:07:42]     ✓ Uploaded: numpy-1.25.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:07:54]     ✓ Uploaded: numpy-1.25.0-cp39-cp39-win_amd64.whl
+[16:08:08]     ✓ Uploaded: numpy-1.25.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:08:22]     ✓ Uploaded: numpy-1.25.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:08:34]     ✓ Uploaded: numpy-1.25.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:08:44]     ✓ Uploaded: numpy-1.25.0-cp310-cp310-win_amd64.whl
+[16:08:56]     ✓ Uploaded: numpy-1.25.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:09:05]     ✓ Uploaded: numpy-1.25.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:09:20]     ✓ Uploaded: numpy-1.25.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:09:32]     ✓ Uploaded: numpy-1.25.0-cp311-cp311-win_amd64.whl
+[16:09:45]   [21/79] numpy==1.26.0
+[16:10:01]     ✓ Uploaded: numpy-1.26.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:10:13]     ✓ Uploaded: numpy-1.26.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:10:25]     ✓ Uploaded: numpy-1.26.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:10:37]     ✓ Uploaded: numpy-1.26.0-cp39-cp39-win_amd64.whl
+[16:10:49]     ✓ Uploaded: numpy-1.26.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:11:01]     ✓ Uploaded: numpy-1.26.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:11:11]     ✓ Uploaded: numpy-1.26.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:11:23]     ✓ Uploaded: numpy-1.26.0-cp310-cp310-win_amd64.whl
+[16:11:34]     ✓ Uploaded: numpy-1.26.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:11:48]     ✓ Uploaded: numpy-1.26.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:12:00]     ✓ Uploaded: numpy-1.26.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:12:11]     ✓ Uploaded: numpy-1.26.0-cp311-cp311-win_amd64.whl
+[16:12:19]     ✓ Uploaded: numpy-1.26.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:12:31]     ✓ Uploaded: numpy-1.26.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:12:39]     ✓ Uploaded: numpy-1.26.0-cp312-cp312-macosx_11_0_arm64.whl
+[16:12:51]     ✓ Uploaded: numpy-1.26.0-cp312-cp312-win_amd64.whl
+[16:12:51]   [22/79] numpy==2.0.0
+[16:13:06]     ✓ Uploaded: numpy-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:13:16]     ✓ Uploaded: numpy-2.0.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:13:28]     ✓ Uploaded: numpy-2.0.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:13:40]     ✓ Uploaded: numpy-2.0.0-cp39-cp39-win_amd64.whl
+[16:13:52]     ✓ Uploaded: numpy-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:14:05]     ✓ Uploaded: numpy-2.0.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:14:21]     ✓ Uploaded: numpy-2.0.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:14:29]     ✓ Uploaded: numpy-2.0.0-cp310-cp310-win_amd64.whl
+[16:14:37]     ✓ Uploaded: numpy-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:14:51]     ✓ Uploaded: numpy-2.0.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:15:03]     ✓ Uploaded: numpy-2.0.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:15:10]     ✓ Uploaded: numpy-2.0.0-cp311-cp311-win_amd64.whl
+[16:15:23]     ✓ Uploaded: numpy-2.0.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:15:38]     ✓ Uploaded: numpy-2.0.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:15:49]     ✓ Uploaded: numpy-2.0.0-cp312-cp312-macosx_11_0_arm64.whl
+[16:16:00]     ✓ Uploaded: numpy-2.0.0-cp312-cp312-win_amd64.whl
+[16:16:00] 📦 scipy (4 versions)
+[16:16:00]   [23/79] scipy==1.11.0
+[16:16:17]     ✓ Uploaded: scipy-1.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:16:37]     ✓ Uploaded: scipy-1.11.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:18:17]     ✓ Uploaded: scipy-1.11.0-cp39-cp39-win_amd64.whl
+[16:18:35]     ✓ Uploaded: scipy-1.11.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:18:51]     ✓ Uploaded: scipy-1.11.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:19:43]     ✓ Uploaded: scipy-1.11.0-cp310-cp310-win_amd64.whl
+[16:20:01]     ✓ Uploaded: scipy-1.11.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:20:20]     ✓ Uploaded: scipy-1.11.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:21:17]     ✓ Uploaded: scipy-1.11.0-cp311-cp311-win_amd64.whl
+[16:23:39]   [24/79] scipy==1.12.0
+[16:24:01]     ✓ Uploaded: scipy-1.12.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:24:21]     ✓ Uploaded: scipy-1.12.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:25:17]     ✓ Uploaded: scipy-1.12.0-cp39-cp39-win_amd64.whl
+[16:25:33]     ✓ Uploaded: scipy-1.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:25:53]     ✓ Uploaded: scipy-1.12.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:26:45]     ✓ Uploaded: scipy-1.12.0-cp310-cp310-win_amd64.whl
+[16:27:05]     ✓ Uploaded: scipy-1.12.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:27:24]     ✓ Uploaded: scipy-1.12.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:28:37]     ✓ Uploaded: scipy-1.12.0-cp311-cp311-win_amd64.whl
+[16:28:53]     ✓ Uploaded: scipy-1.12.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:29:11]     ✓ Uploaded: scipy-1.12.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:30:00]     ✓ Uploaded: scipy-1.12.0-cp312-cp312-win_amd64.whl
+[16:30:00]   [25/79] scipy==1.13.0
+[16:30:18]     ✓ Uploaded: scipy-1.13.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:30:39]     ✓ Uploaded: scipy-1.13.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:31:39]     ✓ Uploaded: scipy-1.13.0-cp39-cp39-win_amd64.whl
+[16:31:54]     ✓ Uploaded: scipy-1.13.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:32:08]     ✓ Uploaded: scipy-1.13.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:32:56]     ✓ Uploaded: scipy-1.13.0-cp310-cp310-win_amd64.whl
+[16:33:13]     ✓ Uploaded: scipy-1.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:33:34]     ✓ Uploaded: scipy-1.13.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:34:55]     ✓ Uploaded: scipy-1.13.0-cp311-cp311-win_amd64.whl
+[16:35:12]     ✓ Uploaded: scipy-1.13.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:35:29]     ✓ Uploaded: scipy-1.13.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:36:20]     ✓ Uploaded: scipy-1.13.0-cp312-cp312-win_amd64.whl
+[16:36:20]   [26/79] scipy==1.14.0
+[16:36:41]     ✓ Uploaded: scipy-1.14.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:36:54]     ✓ Uploaded: scipy-1.14.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:38:02]     ✓ Uploaded: scipy-1.14.0-cp310-cp310-win_amd64.whl
+[16:38:22]     ✓ Uploaded: scipy-1.14.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:38:42]     ✓ Uploaded: scipy-1.14.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:40:02]     ✓ Uploaded: scipy-1.14.0-cp311-cp311-win_amd64.whl
+[16:40:14]     ✓ Uploaded: scipy-1.14.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:40:29]     ✓ Uploaded: scipy-1.14.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:41:13]     ✓ Uploaded: scipy-1.14.0-cp312-cp312-win_amd64.whl
+[16:41:13] 📦 pandas (3 versions)
+[16:41:13]   [27/79] pandas==2.0.0
+[16:41:26]     ✓ Uploaded: pandas-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:41:37]     ✓ Uploaded: pandas-2.0.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:41:49]     ✓ Uploaded: pandas-2.0.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:41:58]     ✓ Uploaded: pandas-2.0.0-cp39-cp39-win_amd64.whl
+[16:42:10]     ✓ Uploaded: pandas-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:42:18]     ✓ Uploaded: pandas-2.0.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:42:32]     ✓ Uploaded: pandas-2.0.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:42:46]     ✓ Uploaded: pandas-2.0.0-cp310-cp310-win_amd64.whl
+[16:42:56]     ✓ Uploaded: pandas-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:43:08]     ✓ Uploaded: pandas-2.0.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:43:19]     ✓ Uploaded: pandas-2.0.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:43:29]     ✓ Uploaded: pandas-2.0.0-cp311-cp311-win_amd64.whl
+[16:47:05]   [28/79] pandas==2.1.0
+[16:47:18]     ✓ Uploaded: pandas-2.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:47:30]     ✓ Uploaded: pandas-2.1.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:47:40]     ✓ Uploaded: pandas-2.1.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:47:53]     ✓ Uploaded: pandas-2.1.0-cp39-cp39-win_amd64.whl
+[16:48:03]     ✓ Uploaded: pandas-2.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:48:15]     ✓ Uploaded: pandas-2.1.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:48:27]     ✓ Uploaded: pandas-2.1.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:48:36]     ✓ Uploaded: pandas-2.1.0-cp310-cp310-win_amd64.whl
+[16:48:47]     ✓ Uploaded: pandas-2.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:48:55]     ✓ Uploaded: pandas-2.1.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:49:06]     ✓ Uploaded: pandas-2.1.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:49:13]     ✓ Uploaded: pandas-2.1.0-cp311-cp311-win_amd64.whl
+[16:51:08]   [29/79] pandas==2.2.0
+[16:51:21]     ✓ Uploaded: pandas-2.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:51:32]     ✓ Uploaded: pandas-2.2.0-cp39-cp39-macosx_10_9_x86_64.whl
+[16:51:43]     ✓ Uploaded: pandas-2.2.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:51:52]     ✓ Uploaded: pandas-2.2.0-cp39-cp39-win_amd64.whl
+[16:52:02]     ✓ Uploaded: pandas-2.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:52:13]     ✓ Uploaded: pandas-2.2.0-cp310-cp310-macosx_10_9_x86_64.whl
+[16:52:22]     ✓ Uploaded: pandas-2.2.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:52:33]     ✓ Uploaded: pandas-2.2.0-cp310-cp310-win_amd64.whl
+[16:52:43]     ✓ Uploaded: pandas-2.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:52:55]     ✓ Uploaded: pandas-2.2.0-cp311-cp311-macosx_10_9_x86_64.whl
+[16:53:06]     ✓ Uploaded: pandas-2.2.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:53:16]     ✓ Uploaded: pandas-2.2.0-cp311-cp311-win_amd64.whl
+[16:53:28]     ✓ Uploaded: pandas-2.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:53:39]     ✓ Uploaded: pandas-2.2.0-cp312-cp312-macosx_10_9_x86_64.whl
+[16:53:49]     ✓ Uploaded: pandas-2.2.0-cp312-cp312-macosx_11_0_arm64.whl
+[16:53:59]     ✓ Uploaded: pandas-2.2.0-cp312-cp312-win_amd64.whl
+[16:53:59] 📦 matplotlib (3 versions)
+[16:53:59]   [30/79] matplotlib==3.7.0
+[16:54:13]     ✓ Uploaded: matplotlib-3.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:54:34]     ✓ Uploaded: matplotlib-3.7.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:54:40]     ✓ Uploaded: matplotlib-3.7.0-cp39-cp39-win_amd64.whl
+[16:54:50]     ✓ Uploaded: matplotlib-3.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:55:07]     ✓ Uploaded: matplotlib-3.7.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:55:15]     ✓ Uploaded: matplotlib-3.7.0-cp310-cp310-win_amd64.whl
+[16:55:28]     ✓ Uploaded: matplotlib-3.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:55:45]     ✓ Uploaded: matplotlib-3.7.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:55:53]     ✓ Uploaded: matplotlib-3.7.0-cp311-cp311-win_amd64.whl
+[16:56:24]   [31/79] matplotlib==3.8.0
+[16:56:38]     ✓ Uploaded: matplotlib-3.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:57:00]     ✓ Uploaded: matplotlib-3.8.0-cp39-cp39-macosx_11_0_arm64.whl
+[16:57:09]     ✓ Uploaded: matplotlib-3.8.0-cp39-cp39-win_amd64.whl
+[16:57:20]     ✓ Uploaded: matplotlib-3.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:57:36]     ✓ Uploaded: matplotlib-3.8.0-cp310-cp310-macosx_11_0_arm64.whl
+[16:57:45]     ✓ Uploaded: matplotlib-3.8.0-cp310-cp310-win_amd64.whl
+[16:57:52]     ✓ Uploaded: matplotlib-3.8.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:58:11]     ✓ Uploaded: matplotlib-3.8.0-cp311-cp311-macosx_11_0_arm64.whl
+[16:58:19]     ✓ Uploaded: matplotlib-3.8.0-cp311-cp311-win_amd64.whl
+[16:58:31]     ✓ Uploaded: matplotlib-3.8.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[16:58:47]     ✓ Uploaded: matplotlib-3.8.0-cp312-cp312-macosx_11_0_arm64.whl
+[16:58:56]     ✓ Uploaded: matplotlib-3.8.0-cp312-cp312-win_amd64.whl
+[16:58:56]   [32/79] matplotlib==3.9.0
