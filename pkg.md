@@ -1197,3 +1197,35 @@ KeyboardInterrupt
 [18:24:38]     ✓ Uploaded: h5py-3.10.0-cp39-cp39-win_amd64.whl
 [18:24:46]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 [18:24:53]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-macosx_10_9_x86_64.whl
+[18:25:00]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-macosx_11_0_arm64.whl
+[18:25:06]     ✓ Uploaded: h5py-3.10.0-cp310-cp310-win_amd64.whl
+[18:25:13]     ✓ Uploaded: h5py-3.10.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:25:22]     ✓ Uploaded: h5py-3.10.0-cp311-cp311-macosx_10_9_x86_64.whl
+[18:25:29]     ✓ Uploaded: h5py-3.10.0-cp311-cp311-macosx_11_0_arm64.whl
+[18:25:35]     ✓ Uploaded: h5py-3.10.0-cp311-cp311-win_amd64.whl
+[18:25:42]     ✓ Uploaded: h5py-3.10.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:25:51]     ✓ Uploaded: h5py-3.10.0-cp312-cp312-macosx_10_9_x86_64.whl
+[18:25:58]     ✓ Uploaded: h5py-3.10.0-cp312-cp312-macosx_11_0_arm64.whl
+[18:26:05]     ✓ Uploaded: h5py-3.10.0-cp312-cp312-win_amd64.whl
+[18:26:05]   [73/79] h5py==3.11.0
+[18:26:16]     ✓ Uploaded: h5py-3.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:26:23]     ✓ Uploaded: h5py-3.11.0-cp39-cp39-macosx_10_9_x86_64.whl
+[18:26:31]     ✓ Uploaded: h5py-3.11.0-cp39-cp39-macosx_11_0_arm64.whl
+[18:26:39]     ✓ Uploaded: h5py-3.11.0-cp39-cp39-win_amd64.whl
+[18:26:47]     ✓ Uploaded: h5py-3.11.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:26:54]     ✓ Uploaded: h5py-3.11.0-cp310-cp310-macosx_10_9_x86_64.whl
+[18:27:01]     ✓ Uploaded: h5py-3.11.0-cp310-cp310-macosx_11_0_arm64.whl
+[18:27:10]     ✓ Uploaded: h5py-3.11.0-cp310-cp310-win_amd64.whl
+[18:27:19]     ✓ Uploaded: h5py-3.11.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:27:26]     ✓ Uploaded: h5py-3.11.0-cp311-cp311-macosx_10_9_x86_64.whl
+[18:27:33]     ✓ Uploaded: h5py-3.11.0-cp311-cp311-macosx_11_0_arm64.whl
+[18:27:40]     ✓ Uploaded: h5py-3.11.0-cp311-cp311-win_amd64.whl
+[18:27:48]     ✓ Uploaded: h5py-3.11.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:27:56]     ✓ Uploaded: h5py-3.11.0-cp312-cp312-macosx_10_9_x86_64.whl
+[18:28:02]     ✓ Uploaded: h5py-3.11.0-cp312-cp312-macosx_11_0_arm64.whl
+[18:28:10]     ✓ Uploaded: h5py-3.11.0-cp312-cp312-win_amd64.whl
+[18:28:10] 📦 onnx (2 versions)
+[18:28:10]   [74/79] onnx==1.15.0
+[18:28:28]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:28:54]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-macosx_10_12_universal2.whl
+[18:29:06]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-win_amd64.whl
