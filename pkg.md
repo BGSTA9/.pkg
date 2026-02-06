@@ -9,10 +9,6 @@
 
 Testing connection...
            0 2026-02-04 16:47:25        -1 .pkg
-           0 2023-07-09 23:26:56        -1 Colab Notebooks
-           0 2024-09-17 11:10:49        -1 Heat-Equation (PINN)
-           0 2025-04-28 17:22:56        -1 TSSF／CMAS 1*
-           0 2025-04-28 17:23:11        -1 TSSF／CMAS 2**
 ✅ Connection successful!
 
 =================================
@@ -175,38 +171,7 @@ Or manually sync with:
 [20:11:23]     ✓ Uploaded: torch-2.4.0-cp39-cp39-win_amd64.whl
 [20:14:23]     ✓ Uploaded: torch-2.4.0-cp310-cp310-manylinux1_x86_64.whl
 [20:14:59]     ✓ Uploaded: torch-2.4.0-cp310-none-macosx_11_0_arm64.whl
-
-We stop here for later to continue downloading the rest of the packages. wed feb 4th 2016
-
-^C[20:16:53] 🧹 Cleaned up temp directory
-Traceback (most recent call last):
-  File "/Users/soheilsanati/Downloads/pkg/download_packages.py", line 284, in <module>
-    main()
-    ~~~~^^
-  File "/Users/soheilsanati/Downloads/pkg/download_packages.py", line 259, in main
-    count = download_and_upload_package(
-        pkg_name, version, temp_dir,
-        python_version=py_ver,
-        platform=plat_tag
-    )
-  File "/Users/soheilsanati/Downloads/pkg/download_packages.py", line 168, in download_and_upload_package
-    if upload_to_gdrive(f, remote_subpath):
-       ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
-  File "/Users/soheilsanati/Downloads/pkg/download_packages.py", line 111, in upload_to_gdrive
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
-  File "/Users/soheilsanati/anaconda3/lib/python3.13/subprocess.py", line 556, in run
-    stdout, stderr = process.communicate(input, timeout=timeout)
-                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Users/soheilsanati/anaconda3/lib/python3.13/subprocess.py", line 1222, in communicate
-    stdout, stderr = self._communicate(input, endtime, timeout)
-                     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Users/soheilsanati/anaconda3/lib/python3.13/subprocess.py", line 2128, in _communicate
-    ready = selector.select(timeout)
-  File "/Users/soheilsanati/anaconda3/lib/python3.13/selectors.py", line 398, in select
-    fd_event_list = self._selector.poll(timeout)
-KeyboardInterrupt
-
-(base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start-from 6
+>>> Continue from here ...
 [15:23:45] ============================================================
 [15:23:45] ML Package Downloader - Direct to Google Drive
 [15:23:45] ============================================================
