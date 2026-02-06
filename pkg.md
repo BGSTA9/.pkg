@@ -206,4 +206,58 @@ Traceback (most recent call last):
     fd_event_list = self._selector.poll(timeout)
 KeyboardInterrupt
 
-(base) soheilsanati@Soheils-MacBook-Pro pkg %
+base) soheilsanati@Soheils-MacBook-Pro pkg % python download_packages.py --start-from 6
+[15:23:45] ============================================================
+[15:23:45] ML Package Downloader - Direct to Google Drive
+[15:23:45] ============================================================
+[15:23:45] 
+[15:23:45] ✓ Using rclone remote: gdrive:ml_packages
+[15:23:45] ⏩ Resuming from package #6
+[15:23:45] 
+[15:23:45] 📁 Temp directory: /var/folders/j1/9fxjp53j61vcxxw21brhmtyr0000gn/T/ml_packages_qai8qqza
+[15:23:45] 
+[15:23:45] 📦 torch (5 versions)
+[15:23:45]   [1/79] torch==2.0.0 (skipped)
+[15:23:45]   [2/79] torch==2.1.0 (skipped)
+[15:23:45]   [3/79] torch==2.2.0 (skipped)
+[15:23:45]   [4/79] torch==2.3.0 (skipped)
+[15:23:45]   [5/79] torch==2.4.0 (skipped)
+[15:23:45] 📦 torchvision (5 versions)
+[15:23:45]   [6/79] torchvision==0.15.0
+[15:23:58]     ✓ Uploaded: torchvision-0.15.0-cp39-cp39-manylinux1_x86_64.whl
+[15:24:04]     ✓ Uploaded: torchvision-0.15.0-cp39-cp39-macosx_10_9_x86_64.whl
+[15:24:11]     ✓ Uploaded: torchvision-0.15.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:24:17]     ✓ Uploaded: torchvision-0.15.0-cp39-cp39-win_amd64.whl
+[15:24:27]     ✓ Uploaded: torchvision-0.15.0-cp310-cp310-manylinux1_x86_64.whl
+[15:24:33]     ✓ Uploaded: torchvision-0.15.0-cp310-cp310-macosx_10_9_x86_64.whl
+[15:24:39]     ✓ Uploaded: torchvision-0.15.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:24:45]     ✓ Uploaded: torchvision-0.15.0-cp310-cp310-win_amd64.whl
+[15:24:51]     ✓ Uploaded: torchvision-0.15.0-cp311-cp311-manylinux1_x86_64.whl
+[15:24:59]     ✓ Uploaded: torchvision-0.15.0-cp311-cp311-macosx_10_9_x86_64.whl
+[15:25:06]     ✓ Uploaded: torchvision-0.15.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:25:12]     ✓ Uploaded: torchvision-0.15.0-cp311-cp311-win_amd64.whl
+[15:25:15]   [7/79] torchvision==0.16.0
+[15:25:25]     ✓ Uploaded: torchvision-0.16.0-cp39-cp39-manylinux1_x86_64.whl
+[15:25:32]     ✓ Uploaded: torchvision-0.16.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:25:37]     ✓ Uploaded: torchvision-0.16.0-cp39-cp39-win_amd64.whl
+[15:25:43]     ✓ Uploaded: torchvision-0.16.0-cp310-cp310-manylinux1_x86_64.whl
+[15:25:48]     ✓ Uploaded: torchvision-0.16.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:25:54]     ✓ Uploaded: torchvision-0.16.0-cp310-cp310-win_amd64.whl
+[15:25:59]     ✓ Uploaded: torchvision-0.16.0-cp311-cp311-manylinux1_x86_64.whl
+[15:26:05]     ✓ Uploaded: torchvision-0.16.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:26:11]     ✓ Uploaded: torchvision-0.16.0-cp311-cp311-win_amd64.whl
+[15:26:14]   [8/79] torchvision==0.17.0
+[15:26:27]     ✓ Uploaded: torchvision-0.17.0-cp39-cp39-manylinux1_x86_64.whl
+[15:26:34]     ✓ Uploaded: torchvision-0.17.0-cp39-cp39-macosx_11_0_arm64.whl
+[15:26:39]     ✓ Uploaded: torchvision-0.17.0-cp39-cp39-win_amd64.whl
+[15:26:47]     ✓ Uploaded: torchvision-0.17.0-cp310-cp310-manylinux1_x86_64.whl
+[15:26:53]     ✓ Uploaded: torchvision-0.17.0-cp310-cp310-macosx_11_0_arm64.whl
+[15:26:59]     ✓ Uploaded: torchvision-0.17.0-cp310-cp310-win_amd64.whl
+[15:27:07]     ✓ Uploaded: torchvision-0.17.0-cp311-cp311-manylinux1_x86_64.whl
+[15:27:14]     ✓ Uploaded: torchvision-0.17.0-cp311-cp311-macosx_11_0_arm64.whl
+[15:27:20]     ✓ Uploaded: torchvision-0.17.0-cp311-cp311-win_amd64.whl
+[15:27:31]     ✓ Uploaded: torchvision-0.17.0-cp312-cp312-manylinux1_x86_64.whl
+[15:27:38]     ✓ Uploaded: torchvision-0.17.0-cp312-cp312-macosx_11_0_arm64.whl
+[15:27:45]     ✓ Uploaded: torchvision-0.17.0-cp312-cp312-win_amd64.whl
+[15:27:45]   [9/79] torchvision==0.18.0
+[15:27:55]     ✓ Uploaded: torchvision-0.18.0-cp39-cp39-manylinux1_x86_64.whl
