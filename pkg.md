@@ -547,3 +547,306 @@ KeyboardInterrupt
 [16:58:47]     ✓ Uploaded: matplotlib-3.8.0-cp312-cp312-macosx_11_0_arm64.whl
 [16:58:56]     ✓ Uploaded: matplotlib-3.8.0-cp312-cp312-win_amd64.whl
 [16:58:56]   [32/79] matplotlib==3.9.0
+[16:59:06]     ✓ Uploaded: matplotlib-3.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:00:39]     ✓ Uploaded: matplotlib-3.9.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:00:50]     ✓ Uploaded: matplotlib-3.9.0-cp39-cp39-win_amd64.whl
+[17:00:58]     ✓ Uploaded: matplotlib-3.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:02:09]     ✓ Uploaded: matplotlib-3.9.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:02:17]     ✓ Uploaded: matplotlib-3.9.0-cp310-cp310-win_amd64.whl
+[17:02:25]     ✓ Uploaded: matplotlib-3.9.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:03:08]     ✓ Uploaded: matplotlib-3.9.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:03:17]     ✓ Uploaded: matplotlib-3.9.0-cp311-cp311-win_amd64.whl
+[17:03:25]     ✓ Uploaded: matplotlib-3.9.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:04:31]     ✓ Uploaded: matplotlib-3.9.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:04:40]     ✓ Uploaded: matplotlib-3.9.0-cp312-cp312-win_amd64.whl
+[17:04:40] 📦 scikit-learn (3 versions)
+[17:04:40]   [33/79] scikit-learn==1.3.0
+[17:04:52]     ✓ Uploaded: scikit_learn-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:05:03]     ✓ Uploaded: scikit_learn-1.3.0-cp39-cp39-macosx_10_9_x86_64.whl
+[17:05:50]     ✓ Uploaded: scikit_learn-1.3.0-cp39-cp39-win_amd64.whl
+[17:06:00]     ✓ Uploaded: scikit_learn-1.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:06:09]     ✓ Uploaded: scikit_learn-1.3.0-cp310-cp310-macosx_10_9_x86_64.whl
+[17:06:53]     ✓ Uploaded: scikit_learn-1.3.0-cp310-cp310-win_amd64.whl
+[17:07:06]     ✓ Uploaded: scikit_learn-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:07:17]     ✓ Uploaded: scikit_learn-1.3.0-cp311-cp311-macosx_10_9_x86_64.whl
+[17:08:29]     ✓ Uploaded: scikit_learn-1.3.0-cp311-cp311-win_amd64.whl
+[17:10:51]   [34/79] scikit-learn==1.4.0
+[17:11:07]     ✓ Uploaded: scikit_learn-1.4.0-1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:11:18]     ✓ Uploaded: scikit_learn-1.4.0-1-cp39-cp39-macosx_10_9_x86_64.whl
+[17:12:36]     ✓ Uploaded: scikit_learn-1.4.0-1-cp39-cp39-win_amd64.whl
+[17:12:47]     ✓ Uploaded: scikit_learn-1.4.0-1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:12:57]     ✓ Uploaded: scikit_learn-1.4.0-1-cp310-cp310-macosx_10_9_x86_64.whl
+[17:14:39]     ✓ Uploaded: scikit_learn-1.4.0-1-cp310-cp310-win_amd64.whl
+[17:14:47]     ✓ Uploaded: scikit_learn-1.4.0-1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:14:57]     ✓ Uploaded: scikit_learn-1.4.0-1-cp311-cp311-macosx_10_9_x86_64.whl
+[17:16:14]     ✓ Uploaded: scikit_learn-1.4.0-1-cp311-cp311-win_amd64.whl
+[17:16:24]     ✓ Uploaded: scikit_learn-1.4.0-1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:16:35]     ✓ Uploaded: scikit_learn-1.4.0-1-cp312-cp312-macosx_10_9_x86_64.whl
+[17:17:53]     ✓ Uploaded: scikit_learn-1.4.0-1-cp312-cp312-win_amd64.whl
+[17:17:53]   [35/79] scikit-learn==1.5.0
+[17:18:06]     ✓ Uploaded: scikit_learn-1.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:18:20]     ✓ Uploaded: scikit_learn-1.5.0-cp39-cp39-macosx_10_9_x86_64.whl
+[17:21:43]     ✓ Uploaded: scikit_learn-1.5.0-cp39-cp39-win_amd64.whl
+[17:21:53]     ✓ Uploaded: scikit_learn-1.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:22:05]     ✓ Uploaded: scikit_learn-1.5.0-cp310-cp310-macosx_10_9_x86_64.whl
+[17:24:53]     ✓ Uploaded: scikit_learn-1.5.0-cp310-cp310-win_amd64.whl
+[17:25:04]     ✓ Uploaded: scikit_learn-1.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:25:16]     ✓ Uploaded: scikit_learn-1.5.0-cp311-cp311-macosx_10_9_x86_64.whl
+[17:28:06]     ✓ Uploaded: scikit_learn-1.5.0-cp311-cp311-win_amd64.whl
+[17:28:13]     ✓ Uploaded: scikit_learn-1.5.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:28:26]     ✓ Uploaded: scikit_learn-1.5.0-cp312-cp312-macosx_10_9_x86_64.whl
+[17:31:09]     ✓ Uploaded: scikit_learn-1.5.0-cp312-cp312-win_amd64.whl
+[17:31:09] 📦 opencv-python (2 versions)
+[17:31:09]   [36/79] opencv-python==4.9.0.80
+[17:31:37]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:32:18]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl
+[17:32:35]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl
+[17:32:40]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:32:53]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl
+[17:32:57]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl
+[17:33:02]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:33:15]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl
+[17:33:19]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl
+[17:33:23]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:33:36]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl
+[17:33:40]     ✓ Uploaded: opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl
+[17:33:40]   [37/79] opencv-python==4.10.0.84
+[17:34:03]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:34:46]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-macosx_11_0_arm64.whl
+[17:35:04]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl
+[17:35:08]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:35:21]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-macosx_11_0_arm64.whl
+[17:35:25]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl
+[17:35:29]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:35:43]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-macosx_11_0_arm64.whl
+[17:35:47]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl
+[17:35:51]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:36:04]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-macosx_11_0_arm64.whl
+[17:36:08]     ✓ Uploaded: opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl
+[17:36:08] 📦 Pillow (3 versions)
+[17:36:08]   [38/79] Pillow==10.2.0
+[17:36:19]     ✓ Uploaded: pillow-10.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:36:31]     ✓ Uploaded: pillow-10.2.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:36:37]     ✓ Uploaded: pillow-10.2.0-cp39-cp39-win_amd64.whl
+[17:36:44]     ✓ Uploaded: pillow-10.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:36:53]     ✓ Uploaded: pillow-10.2.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:37:01]     ✓ Uploaded: pillow-10.2.0-cp310-cp310-win_amd64.whl
+[17:37:08]     ✓ Uploaded: pillow-10.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:37:16]     ✓ Uploaded: pillow-10.2.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:37:24]     ✓ Uploaded: pillow-10.2.0-cp311-cp311-win_amd64.whl
+[17:37:33]     ✓ Uploaded: pillow-10.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:37:43]     ✓ Uploaded: pillow-10.2.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:37:51]     ✓ Uploaded: pillow-10.2.0-cp312-cp312-win_amd64.whl
+[17:37:51]   [39/79] Pillow==10.3.0
+[17:38:01]     ✓ Uploaded: pillow-10.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:38:22]     ✓ Uploaded: pillow-10.3.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:38:28]     ✓ Uploaded: pillow-10.3.0-cp39-cp39-win_amd64.whl
+[17:38:36]     ✓ Uploaded: pillow-10.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:38:48]     ✓ Uploaded: pillow-10.3.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:38:55]     ✓ Uploaded: pillow-10.3.0-cp310-cp310-win_amd64.whl
+[17:39:02]     ✓ Uploaded: pillow-10.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:39:14]     ✓ Uploaded: pillow-10.3.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:39:20]     ✓ Uploaded: pillow-10.3.0-cp311-cp311-win_amd64.whl
+[17:39:27]     ✓ Uploaded: pillow-10.3.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:39:37]     ✓ Uploaded: pillow-10.3.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:39:44]     ✓ Uploaded: pillow-10.3.0-cp312-cp312-win_amd64.whl
+[17:39:44]   [40/79] Pillow==10.4.0
+[17:39:54]     ✓ Uploaded: pillow-10.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:40:09]     ✓ Uploaded: pillow-10.4.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:40:16]     ✓ Uploaded: pillow-10.4.0-cp39-cp39-win_amd64.whl
+[17:40:24]     ✓ Uploaded: pillow-10.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:40:35]     ✓ Uploaded: pillow-10.4.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:40:41]     ✓ Uploaded: pillow-10.4.0-cp310-cp310-win_amd64.whl
+[17:40:48]     ✓ Uploaded: pillow-10.4.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:40:59]     ✓ Uploaded: pillow-10.4.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:41:06]     ✓ Uploaded: pillow-10.4.0-cp311-cp311-win_amd64.whl
+[17:41:16]     ✓ Uploaded: pillow-10.4.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:41:26]     ✓ Uploaded: pillow-10.4.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:41:32]     ✓ Uploaded: pillow-10.4.0-cp312-cp312-win_amd64.whl
+[17:41:32] 📦 transformers (3 versions)
+[17:41:32]   [41/79] transformers==4.38.0
+[17:41:44]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:41:47]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:41:51]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:41:54]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:41:58]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:03]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:08]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:12]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:16]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:20]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:25]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:30]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:38]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:42]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:48]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:52]     ✓ Uploaded: transformers-4.38.0-py3-none-any.whl
+[17:42:52]   [42/79] transformers==4.39.0
+[17:43:03]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:07]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:12]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:16]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:21]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:26]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:30]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:34]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:39]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:43]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:47]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:52]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:43:57]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:44:01]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:44:06]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:44:10]     ✓ Uploaded: transformers-4.39.0-py3-none-any.whl
+[17:44:10]   [43/79] transformers==4.40.0
+[17:44:22]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:26]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:29]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:33]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:37]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:42]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:49]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:53]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:44:58]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:02]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:06]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:11]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:16]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:21]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:25]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:30]     ✓ Uploaded: transformers-4.40.0-py3-none-any.whl
+[17:45:30] 📦 tokenizers (2 versions)
+[17:45:30]   [44/79] tokenizers==0.19.0
+[17:45:41]     ✓ Uploaded: tokenizers-0.19.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:46:01]     ✓ Uploaded: tokenizers-0.19.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:46:08]     ✓ Uploaded: tokenizers-0.19.0-cp39-none-win_amd64.whl
+[17:46:14]     ✓ Uploaded: tokenizers-0.19.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:46:27]     ✓ Uploaded: tokenizers-0.19.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:46:35]     ✓ Uploaded: tokenizers-0.19.0-cp310-none-win_amd64.whl
+[17:46:42]     ✓ Uploaded: tokenizers-0.19.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:46:55]     ✓ Uploaded: tokenizers-0.19.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:47:02]     ✓ Uploaded: tokenizers-0.19.0-cp311-none-win_amd64.whl
+[17:47:13]     ✓ Uploaded: tokenizers-0.19.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:47:26]     ✓ Uploaded: tokenizers-0.19.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:47:34]     ✓ Uploaded: tokenizers-0.19.0-cp312-none-win_amd64.whl
+[17:47:34]   [45/79] tokenizers==0.20.0
+[17:47:45]     ✓ Uploaded: tokenizers-0.20.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:47:59]     ✓ Uploaded: tokenizers-0.20.0-cp39-cp39-macosx_11_0_arm64.whl
+[17:48:06]     ✓ Uploaded: tokenizers-0.20.0-cp39-none-win_amd64.whl
+[17:48:13]     ✓ Uploaded: tokenizers-0.20.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:48:25]     ✓ Uploaded: tokenizers-0.20.0-cp310-cp310-macosx_11_0_arm64.whl
+[17:48:31]     ✓ Uploaded: tokenizers-0.20.0-cp310-none-win_amd64.whl
+[17:48:37]     ✓ Uploaded: tokenizers-0.20.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:48:50]     ✓ Uploaded: tokenizers-0.20.0-cp311-cp311-macosx_11_0_arm64.whl
+[17:48:58]     ✓ Uploaded: tokenizers-0.20.0-cp311-none-win_amd64.whl
+[17:49:05]     ✓ Uploaded: tokenizers-0.20.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:49:18]     ✓ Uploaded: tokenizers-0.20.0-cp312-cp312-macosx_11_0_arm64.whl
+[17:49:25]     ✓ Uploaded: tokenizers-0.20.0-cp312-none-win_amd64.whl
+[17:49:25] 📦 datasets (3 versions)
+[17:49:25]   [46/79] datasets==2.18.0
+[17:49:33]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:36]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:39]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:43]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:46]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:50]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:54]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:49:59]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:03]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:08]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:13]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:18]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:23]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:27]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:31]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:36]     ✓ Uploaded: datasets-2.18.0-py3-none-any.whl
+[17:50:36]   [47/79] datasets==2.19.0
+[17:50:43]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:50:47]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:50:50]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:50:53]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:50:58]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:02]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:06]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:10]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:14]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:20]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:24]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:29]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:33]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:37]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:42]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:46]     ✓ Uploaded: datasets-2.19.0-py3-none-any.whl
+[17:51:46]   [48/79] datasets==2.20.0
+[17:51:53]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:51:57]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:00]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:04]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:07]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:10]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:14]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:17]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:20]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:24]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:28]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:31]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:35]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:38]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:42]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:45]     ✓ Uploaded: datasets-2.20.0-py3-none-any.whl
+[17:52:45] 📦 accelerate (2 versions)
+[17:52:45]   [49/79] accelerate==0.27.0
+[17:52:53]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:52:57]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:01]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:09]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:15]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:19]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:22]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:27]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:31]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:35]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:42]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:46]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:50]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:53:55]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:54:00]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:54:05]     ✓ Uploaded: accelerate-0.27.0-py3-none-any.whl
+[17:54:05]   [50/79] accelerate==0.28.0
+[17:54:12]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:16]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:20]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:23]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:27]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:32]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:36]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:40]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:44]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:49]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:53]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:54:57]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:55:01]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:55:06]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:55:10]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:55:15]     ✓ Uploaded: accelerate-0.28.0-py3-none-any.whl
+[17:55:15] 📦 safetensors (2 versions)
+[17:55:15]   [51/79] safetensors==0.4.2
+[17:55:24]     ✓ Uploaded: safetensors-0.4.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:55:36]     ✓ Uploaded: safetensors-0.4.2-cp39-cp39-macosx_11_0_arm64.whl
+[17:55:41]     ✓ Uploaded: safetensors-0.4.2-cp39-none-win_amd64.whl
+[17:55:47]     ✓ Uploaded: safetensors-0.4.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:55:57]     ✓ Uploaded: safetensors-0.4.2-cp310-cp310-macosx_11_0_arm64.whl
+[17:56:02]     ✓ Uploaded: safetensors-0.4.2-cp310-none-win_amd64.whl
+[17:56:07]     ✓ Uploaded: safetensors-0.4.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:56:18]     ✓ Uploaded: safetensors-0.4.2-cp311-cp311-macosx_11_0_arm64.whl
+[17:56:23]     ✓ Uploaded: safetensors-0.4.2-cp311-none-win_amd64.whl
+[17:56:29]     ✓ Uploaded: safetensors-0.4.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:56:40]     ✓ Uploaded: safetensors-0.4.2-cp312-cp312-macosx_11_0_arm64.whl
+[17:56:45]     ✓ Uploaded: safetensors-0.4.2-cp312-none-win_amd64.whl
+[17:56:45]   [52/79] safetensors==0.4.3
+[17:56:54]     ✓ Uploaded: safetensors-0.4.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:57:05]     ✓ Uploaded: safetensors-0.4.3-cp39-cp39-macosx_11_0_arm64.whl
+[17:57:10]     ✓ Uploaded: safetensors-0.4.3-cp39-none-win_amd64.whl
+[17:57:16]     ✓ Uploaded: safetensors-0.4.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[17:57:28]     ✓ Uploaded: safetensors-0.4.3-cp310-cp310-macosx_11_0_arm64.whl
+[17:57:33]     ✓ Uploaded: safetensors-0.4.3-cp310-none-win_amd64.whl
