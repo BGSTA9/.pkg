@@ -965,3 +965,18 @@ KeyboardInterrupt
 [18:07:20]     ✓ Uploaded: wandb-0.17.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 [18:07:30]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_10_9_x86_64.whl
 [18:07:40]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_11_0_arm64.whl
+[18:07:53]     ✓ Uploaded: wandb-0.17.0-py3-none-win_amd64.whl
+[18:08:01]     ✓ Uploaded: wandb-0.17.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:08:06]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_10_9_x86_64.whl
+[18:08:11]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_11_0_arm64.whl
+[18:08:15]     ✓ Uploaded: wandb-0.17.0-py3-none-win_amd64.whl
+[18:08:21]     ✓ Uploaded: wandb-0.17.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:08:25]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_10_9_x86_64.whl
+[18:08:30]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_11_0_arm64.whl
+[18:08:33]     ✓ Uploaded: wandb-0.17.0-py3-none-win_amd64.whl
+[18:08:38]     ✓ Uploaded: wandb-0.17.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:08:42]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_10_9_x86_64.whl
+[18:08:46]     ✓ Uploaded: wandb-0.17.0-py3-none-macosx_11_0_arm64.whl
+[18:08:49]     ✓ Uploaded: wandb-0.17.0-py3-none-win_amd64.whl
+[18:08:49]   [60/79] wandb==0.18.0
+[18:09:01]     ✓ Uploaded: wandb-0.18.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
