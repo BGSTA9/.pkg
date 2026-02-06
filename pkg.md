@@ -1240,3 +1240,70 @@ KeyboardInterrupt
 [18:32:17]     ✓ Uploaded: onnx-1.16.0-cp39-cp39-macosx_10_15_universal2.whl
 [18:32:25]     ✓ Uploaded: onnx-1.16.0-cp39-cp39-win_amd64.whl
 [18:32:37]     ✓ Uploaded: onnx-1.16.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:33:00]     ✓ Uploaded: onnx-1.16.0-cp310-cp310-macosx_10_15_universal2.whl
+[18:33:12]     ✓ Uploaded: onnx-1.16.0-cp310-cp310-win_amd64.whl
+[18:33:20]     ✓ Uploaded: onnx-1.16.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:33:41]     ✓ Uploaded: onnx-1.16.0-cp311-cp311-macosx_10_15_universal2.whl
+[18:33:52]     ✓ Uploaded: onnx-1.16.0-cp311-cp311-win_amd64.whl
+[18:34:00]     ✓ Uploaded: onnx-1.16.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:34:18]     ✓ Uploaded: onnx-1.16.0-cp312-cp312-macosx_10_15_universal2.whl
+[18:34:28]     ✓ Uploaded: onnx-1.16.0-cp312-cp312-win_amd64.whl
+[18:34:28] 📦 onnxruntime (2 versions)
+[18:34:28]   [76/79] onnxruntime==1.17.0
+[18:34:46]     ✓ Uploaded: onnxruntime-1.17.0-cp39-cp39-macosx_11_0_universal2.whl
+[18:34:56]     ✓ Uploaded: onnxruntime-1.17.0-cp39-cp39-win_amd64.whl
+[18:35:05]     ✓ Uploaded: onnxruntime-1.17.0-cp310-cp310-macosx_11_0_universal2.whl
+[18:35:14]     ✓ Uploaded: onnxruntime-1.17.0-cp310-cp310-win_amd64.whl
+[18:35:28]     ✓ Uploaded: onnxruntime-1.17.0-cp311-cp311-macosx_11_0_universal2.whl
+[18:35:37]     ✓ Uploaded: onnxruntime-1.17.0-cp311-cp311-win_amd64.whl
+[18:35:52]     ✓ Uploaded: onnxruntime-1.17.0-cp312-cp312-macosx_11_0_universal2.whl
+[18:35:58]     ✓ Uploaded: onnxruntime-1.17.0-cp312-cp312-win_amd64.whl
+[18:35:58]   [77/79] onnxruntime==1.18.0
+[18:36:14]     ✓ Uploaded: onnxruntime-1.18.0-cp39-cp39-macosx_11_0_universal2.whl
+[18:36:28]     ✓ Uploaded: onnxruntime-1.18.0-cp39-cp39-win_amd64.whl
+[18:36:42]     ✓ Uploaded: onnxruntime-1.18.0-cp310-cp310-macosx_11_0_universal2.whl
+[18:36:49]     ✓ Uploaded: onnxruntime-1.18.0-cp310-cp310-win_amd64.whl
+[18:37:07]     ✓ Uploaded: onnxruntime-1.18.0-cp311-cp311-macosx_11_0_universal2.whl
+[18:37:18]     ✓ Uploaded: onnxruntime-1.18.0-cp311-cp311-win_amd64.whl
+[18:37:34]     ✓ Uploaded: onnxruntime-1.18.0-cp312-cp312-macosx_11_0_universal2.whl
+[18:37:51]     ✓ Uploaded: onnxruntime-1.18.0-cp312-cp312-win_amd64.whl
+[18:37:51] 📦 einops (2 versions)
+[18:37:51]   [78/79] einops==0.7.0
+[18:37:59]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:03]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:07]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:11]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:15]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:19]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:23]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:26]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:30]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:34]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:38]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:41]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:45]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:49]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:53]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:56]     ✓ Uploaded: einops-0.7.0-py3-none-any.whl
+[18:38:56]   [79/79] einops==0.8.0
+[18:39:03]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:07]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:11]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:14]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:18]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:22]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:25]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:29]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:32]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:36]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:40]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:44]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:48]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:52]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:39:56]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:40:01]     ✓ Uploaded: einops-0.8.0-py3-none-any.whl
+[18:40:01] 
+[18:40:01] ============================================================
+[18:40:01] ✅ Complete! Uploaded 977 files to Google Drive
+[18:40:01] ============================================================
+[18:40:01] 🧹 Cleaned up temp directory
