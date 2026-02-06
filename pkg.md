@@ -1229,3 +1229,14 @@ KeyboardInterrupt
 [18:28:28]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 [18:28:54]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-macosx_10_12_universal2.whl
 [18:29:06]     ✓ Uploaded: onnx-1.15.0-cp39-cp39-win_amd64.whl
+[18:29:17]     ✓ Uploaded: onnx-1.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:29:39]     ✓ Uploaded: onnx-1.15.0-cp310-cp310-macosx_10_12_universal2.whl
+[18:29:52]     ✓ Uploaded: onnx-1.15.0-cp310-cp310-win_amd64.whl
+[18:30:12]     ✓ Uploaded: onnx-1.15.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:30:33]     ✓ Uploaded: onnx-1.15.0-cp311-cp311-macosx_10_12_universal2.whl
+[18:30:45]     ✓ Uploaded: onnx-1.15.0-cp311-cp311-win_amd64.whl
+[18:31:19]   [75/79] onnx==1.16.0
+[18:31:37]     ✓ Uploaded: onnx-1.16.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+[18:32:17]     ✓ Uploaded: onnx-1.16.0-cp39-cp39-macosx_10_15_universal2.whl
+[18:32:25]     ✓ Uploaded: onnx-1.16.0-cp39-cp39-win_amd64.whl
+[18:32:37]     ✓ Uploaded: onnx-1.16.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
